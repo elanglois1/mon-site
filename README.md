@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenue ma gang de vous autres!
+
+je vais revenir mettre à jour tout ça bientôt!
 
 You can use the [editor on GitHub](https://github.com/elanglois1/mon-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
