@@ -1,6 +1,7 @@
 ## Bienvenue ma gang de vous autres!
 
 je vais revenir mettre à jour tout ça bientôt!
+[le mag préféré de Eric](https://www.lesaffaires.com)
 
 You can use the [editor on GitHub](https://github.com/elanglois1/mon-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
